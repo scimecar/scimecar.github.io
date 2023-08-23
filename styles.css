@@ -56,3 +56,15 @@ li a:hover {
     
     display: block;
 }
+
+.ul {
+    text-decoration: underline;
+}
+
+.info ul{
+    padding:5px;
+}
+
+.info li{
+    padding-bottom: 10px;
+}
